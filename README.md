@@ -3,9 +3,9 @@
 A responsive product landing page for a luxury jewelry brand inspired by the Pisces constellation and ocean symbolism.
 
 # Screenshots
-![Home Page](images/home.png)
-![Feature Page](images/feature.png)
-![Pricing Page](images/pricing.png)
+![Home Page](screenshot/home.png)
+![Feature Page](screenshot/feature.png)
+![Pricing Page](screenshot/pricing.png)
 
 
 
